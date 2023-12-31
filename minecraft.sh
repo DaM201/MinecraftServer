@@ -1,0 +1,3 @@
+wget https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0JSelc3eUljQXpOOEoydm9wWEdwTklDSFEtUXxBQ3Jtc0trb3FoLTJOMGJLRTRnWmNZeEJmV0R6WUVKTHZHVms3S2xpeEp0UDF5M3JXRnhlVDFhdmx3d3AtRlZUN0Z3UTZNUEJkOVhsVzlHcE8zX1FBckg1bmVZYk9ZNklJTGVFNUdzcDI1Z0hFQW5NUmQzUkZ5WQ&q=https%3A%2F%2Flauncher.mojang.com%2Fv1%2Fobjects%2F3dc3d84a581f14691199cf6831b71ed1296a9fdf%2Fserver.jar&v=zOjcJzNMW2M -O server.py
+java -Xmx2048M -Xms1024M -jar server.jar nogui
+nano eula.txt
